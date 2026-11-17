@@ -15,7 +15,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@whiskeysockets/baileys": "6.7.24",
+    "@whiskeysockets/baileys": "git+https://github.com/Abdullah9213/Baileys.git#9bc4edcf85578ce2e1cc8f151d2d69064d08c94e",
     "express": "^5.1.0",
     "pino": "^10.4.0"
   }
