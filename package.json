@@ -1,0 +1,22 @@
+{
+  "name": "kase-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp inicial da KASE Esports usando Baileys",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "kase",
+    "esports",
+    "whatsapp",
+    "baileys"
+  ],
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@whiskeysockets/baileys": "6.7.24",
+    "express": "^5.1.0",
+    "pino": "^10.4.0"
+  }
+}
